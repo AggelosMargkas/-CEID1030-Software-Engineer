@@ -17,11 +17,10 @@ git clone  https://github.com/AggelosMargkas/-CEID1030-Software-Engineer.git
 
 ## Usage
 
-```git
-cd SourceCode
+For using the Erasmus 4 U, one needs to have a SSO key of an appropriate organisation. Connecting with the correct credentials will lead to a profile with all the essentials. First the users can see their data and what they need to know about the organisation. Will get a brief idea of the variaty of possibilities that is being offer from the Erasmus Mobility. They will be able to interruct with peopl from the Universities that are interested. Plus, they will have th eopportunity to interact with students that have already done a mobility abroad!
 
-cd Erasmusapp
-```
+The Erasmus for you plan to give the students an inclusive guide for surviving and how to deal with the problems that might occur. First, they will be able to learn from the feedback of other students and will get and good idea of the requierments of living in the country where the University that are interested is palced. Thus, they will have all the sources available for learning what they can do with it.
+
 
 ## Requierments 
 
@@ -31,7 +30,4 @@ For developing flutter application the Android Studio can be used, and the Visua
 
 
 
-Please make sure to update tests as appropriate.
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
