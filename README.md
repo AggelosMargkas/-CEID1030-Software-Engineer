@@ -121,15 +121,4 @@ Project-code-v1.0, η οποία θα πρέπει να περιλαμβάνει
 συναντήσεων, ή το ιστορικό του SCRUM backlog, κτλ.)
 
 
-#### Παραδοτέο 7ο
-
-+ Υποχρεωτικά:
-    * Team-plan-v0.1
-    * Project-description-v0.1
-    * Project-plan-v0.1
-    * Risk-assessment-v0.1
-+ Προαιρετικά:
-    * Feasibility-study-v0.1
-    * Team-risk-assessment-v0.1
-
     
