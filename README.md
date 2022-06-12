@@ -1,124 +1,39 @@
-# -CEID1030-Software-Engineer
+# Erasmus 4 You.
 
-Τεχνολογία Λογισμικού Σκοπός της Τεχνολογίας Λογισμικού.
-
-### Στόχοι
-
-- Προγραμματισμός του Έργου (Project Planning).
-- Ανάλυση προδιαγραφών.
-- Σχεδιασμός Συστήματος.
-- Σχεδιασμός Προγράμματος.
-- Αντικειμενοστραφής Σχεδιασμός με χρήση UML.
-- Υλοποίηση Προγράμματος.
-- Έλεγχος Προγράμματος.
-- Έλεγχος Συστήματος.
-- Παράδοση Συστήματος.
-- Συντήρηση.
+Erasmus for you is an application that provides easy and flexible UI, for all the students that are interested in the Erasmus Mobility. The upper goals is to make it an easy and funny ride. Dealing with paperwork should a small part of all the fun, that means to come. 
 
 
-#### Παραδοτέο 1ο Deadline(18/03/2022)
+![Screenshot](WelcomePage.png)
 
-+ Υποχρεωτικά:
-    * Team-plan-v0.1
-    * Project-description-v0.1
-    * Project-plan-v0.1
-    * Risk-assessment-v0.1
-+ Προαιρετικά:
-    * Feasibility-study-v0.1
-    * Team-risk-assessment-v0.1
+## What to Expect
 
+What are the difficulties a student faces when it comes to the application for Erasmus Exchange? Well, that's why we made Erasmus 4 U. We are aiming for the students to be able to navigate through all their opportunities. The Erasmus for you is the friend you would love to have, exploring the unknown.
 
-#### Παραδοτέο 2ο
+## Installation
 
-+ Υποχρεωτικά:
-    * Use-cases-v0.1
-    * Domain-model-v0.1
-    * Μόνο στην περίπτωση που έγιναν αλλαγές σε κάποια από τα υποχρεωτικά του
-προηγούμενου παραδοτέου θα πρέπει να υποβληθούν νέες εκδόσεις (v0.2 όπου
-χρειάζεται).
-+ Προαιρετικά:
-    * Μπορείτε να παραδώσετε κάποιο από τα προαιρετικά του προηγούμενου
-παραδοτέου αν το επιθυμείτε.
-    * Project-description-v0.2, με οθόνες που έχουν αναπτυχθεί με κάποιο rapid
-prototyping tool ή με κώδικα από το IDE που χρησιμοποιείτε.
-    * Project-code-v0.1, αν έχετε ξεκινήσει την ανάπτυξη μπορείτε να δώσετε μια πρώτη
-έκδοση του κώδικά σας στο Git σας. Προσοχή: όχι κώδικα για τα use cases, αλλά για
-στοιχεία του UI.
+Use the command below to clone the repository.
 
+```bash
+git clone  https://github.com/AggelosMargkas/-CEID1030-Software-Engineer.git
+```
 
-#### Παραδοτέο 3ο
+## Usage
 
-+ Υποχρεωτικά:
+```git
+cd SourceCode
 
-    * Robustness-diagrams-v0.1
-    * Use-cases-v0.2
-    * Domain-model-v0.2
-    * Μόνο στην περίπτωση που έγιναν αλλαγές σε κάποια από τα υποχρεωτικά του
-προηγούμενου παραδοτέου θα πρέπει να υποβληθούν νέες εκδόσεις.
+cd Erasmusapp
+```
+
+## Requierments 
+
+For the development of this application we used the Flutter. Flutter is a new framework made to create beautiful and scalable UI. 
+
+For developing flutter application the Android Studio can be used, and the Visual Studio Code as well.
 
 
-+ Προαιρετικά:
 
-    * Μπορείτε να παραδώσετε κάποιο από τα προαιρετικά των προηγούμενων
-παραδοτέων αν το επιθυμείτε, όπως για παράδειγμα το Project-code-v0.1 ή το
-Project-code-v0.2 αν έχουν προκύψει αλλαγές από την προηγούμενη έκδοση του
-κώδικα.
+Please make sure to update tests as appropriate.
 
-
-#### Παραδοτέο 4ο
-
-+ Υποχρεωτικά:
-
-    * Sequence-diagrams-v0.1
-    * Domain-model-v0.3
-    * Μόνο στην περίπτωση που έγιναν αλλαγές σε κάποια από τα υποχρεωτικά του
- προηγούμενου παραδοτέου θα πρέπει να υποβληθούν νέες εκδόσεις.
- 
-+ Προαιρετικά:
-
-    * Μπορείτε να παραδώσετε κάποιο από τα προαιρετικά των προηγούμενων
-παραδοτέων αν το επιθυμείτε. Θεωρώ ότι σε αυτή τη φάση, αν δεν το έχετε κάνει
-ήδη είναι καλό να ξεκινήσετε με το Project-code-v0.1.
-    * Robustness-diagrams-v0.2, εάν σχεδιάζοντας τα sequence diagrams προέκυψαν
-σημαντικές αλλαγές (κάτι που δεν είναι καθόλου απίθανο) θα πρέπει να
-υποβληθούν εκ νέου.
-    * Use-cases-v0.3, εάν σχεδιάζοντας τα sequence diagrams προέκυψαν σημαντικές
-αλλαγές (κάτι που δεν είναι καθόλου απίθανο) θα πρέπει να υποβληθούν εκ νέου.
-
-
-#### Παραδοτέο 5ο
-
-+ Υποχρεωτικά:
-    * Class-diagram-v0.1
-    * Project-code-v0.x, αν έχετε ήδη (πολύ πιθανό) ξεκινήσει κώδικα δώστε τη νέα
-έκδοση (v0.x) όπως προκύπτει από το case diagram. Αν όχι τότε δώστε την πρώτη
-έκδοση (v0.1) του κώδικα στο Git σας.
-
-+ Προαιρετικά:
-
-    * Test-cases-v0.1
-    * Μπορείτε να παραδώσετε κάποιο από τα προαιρετικά των προηγούμενων
-παραδοτέων αν το επιθυμείτε.
-
-#### Παραδοτέο 6ο
-
-+ Υποχρεωτικά:
-    * Όλες τις εκδόσεις v1.0, για ότι έχετε παραδώσει έως τώρα, είτε έχει αλλάξει στην
-τελική έκδοση (π.χ. το Team-plan-v0.1 θα έχει οπωσδήποτε προσθήκες), είτε αν δεν
-έχει αλλάξει την τελευταία έκδοση, όπως περιγράφεται αναλυτικά στο τμήμα
-«Περιγραφές Τεχνικών Κειμένων».
-    * Κυρίως σε αυτή τη φάση θα πρέπει να ασχοληθείτε με την τελική έκδοση του κώδικα
-Project-code-v1.0, η οποία θα πρέπει να περιλαμβάνει ικανοποιητική
-λειτουργικότητα τουλάχιστον για τα use cases του έργου σας τα οποία αναλύσατε.
-
-+ Προαιρετικά:
-
-    * Μπορείτε να παραδώσετε κάποιο από τα προαιρετικά των προηγούμενων
-παραδοτέων αν το επιθυμείτε.
-    * Μπορείτε επίσης να παραδώσετε οποιοδήποτε άλλο τεχνικό κείμενο που κρίνετε ότι
-ταιριάζει και ολοκληρώνει το έργο σας (για παράδειγμα κείμενα σχετικά με τη
-συγκεκριμένη μεθοδολογία ανάπτυξης που ακολουθήσατε, ή πρακτικά
-συναντήσεων, ή το ιστορικό του SCRUM backlog, κτλ.)
-
-
-    
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
